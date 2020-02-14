@@ -1,0 +1,5 @@
+Clearly, the problem here is that the goal is poorly defined and the team jumped directly into the solution before gathering enough feedback.If after step 1 we created a drawing of the car and showed it to our users, they would have asked the same questions and we would have discovered their expectations and saved ourselves 6 months of work. Software is no different—we can make the same mistake and work for a long time on a feature or module that isn't what our users need.
+
+At Shopify, it’s common practice to use Work In Progress (WIP) PRs to elicit early feedback whose goal is validating direction (choice of algorithm, design, API, etc). Early changes mean less wasted effort on details, polish, documentation, etc.
+
+As an author, this means you need to be open to changing the d
